@@ -1,0 +1,36 @@
+body{
+  background-color: rgb(2, 6, 63);
+  background-image:url(./Images/space1.jpg);
+  height: 1;
+  margin-left: 0;
+  margin-right: 0;
+  width:100%;
+  color: white;
+  position:absolute; 
+}
+.particles{
+  position: fixed;
+  top: 0;
+  right:0;
+  bottom: 0;
+  left: 0;
+  z-index: -1;
+}
+
+.fade-appear
+.fade-enter{
+  opacity:0;
+  z-index:1;
+}
+.fade-appear-active
+.fade-enter.fade-enter-active{
+  opacity:1;
+  transition:opacity 3000ms linear 150ms;
+}
+.fade-exit{
+  opacity:1
+}
+.fade-exit.fade-exit-active{
+  opacity:0;
+  transition: opacity 1500ms linear;
+}
