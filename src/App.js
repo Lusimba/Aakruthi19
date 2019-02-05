@@ -4,6 +4,7 @@ import Footer from './Components/Footer/Footer'
 import Nav from './Components/Nav/Nav';
 import Home from './Components/Pages/Home'
 import Events from './Components/Pages/Events'
+import Register from './Components/Pages/Register'
 import Sponsors from './Components/Pages/Sponsors'
 import Contact from './Components/Pages/Contact'
 import {Switch} from 'react-router-dom';
@@ -51,7 +52,7 @@ class App extends Component {
                 <Switch location={location}>
                     <Route path="/" exact component={Home} />
                     <Route path="/events" exact component={Events} />
-                    <Route path="/committee" exact component={Events} />
+                    <Route path="/register" exact component={Register} />
                     <Route path="/sponsors" exact component={Sponsors} />
                     <Route path="/contact" exact component={Contact} />
                 </Switch>
