@@ -6,7 +6,7 @@ class Home extends Component {
     render(){
         return(
             <div className='dib w-100 border-box fl w-100'>
-                <section className ='center w-100-m w-75-l o-90 black bg-green pr3 pl3 pt1 pb2'>
+                <section className ='center w-100-m w-75-l o-90 black bg-white pr3 pl3 pt1 pb2'>
                     <div className='pb6'>
                     <article>
                             <h2 className='about tc'>Aakruthi</h2>

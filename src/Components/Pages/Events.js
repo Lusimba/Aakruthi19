@@ -17,10 +17,10 @@ class Events extends Component {
         return(
             <div className='dib w-100 border-box fl w-100'>
                 {/* <section className ='dib pa6 mr3 fl w-14'></section> */}
-                <section className ='center w-100-m w-75-l pr2 pl3 pt1 pb2 bg-dark-blue o-90 pa2'>
+                <section className ='center w-100-m w-75-l pr2 pl3 pt1 pb2 bg-white black o-90 pa2'>
                     <div className='pb6'>
                         <h1 className='tc'>Events</h1>
-                        <article className='dt bg-green black dt--fixed w-100'>
+                        <article className='dt bg-light-gray black dt--fixed w-100'>
                             <div className='dt-m w-100-m dtc-l w-40-l'>
                                 <img src={prasthuthi} alt = 'paper-presentation'/>
                             </div>
@@ -52,7 +52,7 @@ engineers..!!!
                                 <img src={poster} alt = 'pradasharna'/>
                             </div>
                         </article>
-                        <article className='dt bg-green black dt--fixed w-100'>
+                        <article className='dt bg-light-gray black dt--fixed w-100'>
                             <div className='dt-m w-100-m dtc-l w-40-l'>
                                 <img src={krithi} className='h-50-l fr pa3' alt = 'krithi'/>
                             </div>
@@ -79,7 +79,7 @@ time.... so be there..
                                 <img src={trishna} className='h-75-l pl6-l' alt = 'paper-presentation'/>
                             </div>
                         </article>
-                        <article className='dt bg-green black dt--fixed w-100'>
+                        <article className='dt bg-light-gray black dt--fixed w-100'>
                             <div className='dt-m w-100-m dtc-l w-40-l'>
                                 <img src={shikshana} className='fr pr6' alt ='shikshana'/>
                             </div>
@@ -103,7 +103,7 @@ time.... so be there..
                                 <img src={chanakya} className='h-50-l pa3-l' alt = 'chanakya'/>
                             </div>
                         </article>
-                        <article className='dt bg-green black dt--fixed w-100'>
+                        <article className='dt bg-light-gray black dt--fixed w-100'>
                             <div className='dt-m w-100-m dtc-l w-40-l'>
                                 <img src={yantra} className='h-50-l fr pr6-l' alt = 'yantra'/>
                             </div>
@@ -127,7 +127,7 @@ provides you a platform to showcase your talent
                                 <img src={laghuchitra} className='pl6' alt = 'laghuchitra'/>
                             </div>
                         </article>
-                        <article className='dt bg-green black dt--fixed w-100'>
+                        <article className='dt bg-light-gray black dt--fixed w-100'>
                             <div className='dt-m w-100-m dtc-l w-40-l'>
                                 <img src={ahladakara} className='h-25-m h-50-l fr pr6' alt = 'ahladakara'/>
                             </div>
