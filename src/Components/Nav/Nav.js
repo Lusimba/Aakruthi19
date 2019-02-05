@@ -5,7 +5,7 @@ import 'tachyons';
 class Nav extends Component {
     render(){
         return (
-            <nav className="dt w-100 border-box pt0 pb0 o-90 pa3 ph5-ns bg-white">
+            <nav className="dt w-100 border-box pt0 pb0 o-90 pa3 ph5-ns bg-light-gray">
                 <NavLink exact to="/" className="dtc v-mid mid-gray dim w-25" title="Home">
                     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/University_College_of_Engineering%2C_Osmania_University_logo.png/220px-University_College_of_Engineering%2C_Osmania_University_logo.png" className="dib h4" alt="Site Name" />
                </NavLink>
