@@ -16,13 +16,11 @@ class Home extends Component {
 <p>The event’s pivotal motive has been to encourage students to confront practical problems and mobilize their skills towards devising an optimal solution. The event undoubtedly has served as a platform where students can explore themselves and set a righteous path for their bright careers. </p>
 
 <p>The event has been eliciting an overwhelming response from students from different parts of both T.S and A.P and also other states. The student organizing committees have been striving to improve the fest in terms of the number of events, better organization and hospitality and wider scope to showcase one’s abilities.</p>
-
-                            
                         </article>
                         <article>
                             <h2 className='about tc'>Osmania University</h2>
-                                <div className='w-60-l w-98-m pb2 center'>
-                                <img src="http://www.uceou.edu/OWWAZ/img/slide1.jpg"alt="Osmania University"/>
+                                <div className='w-98-l w-98-m pb2 center'>
+                                <img src="http://www.osmania.ac.in/images/slide1.jpg"alt="Osmania University"/>
                                 </div>
                             <p>
                             Osmania University, established in 1918, is the seventh oldest in India, the third oldest in South India and the first to be established in the erstwhile princely state of Hyderabad. Throughout its existence of over eight decades, it has shown remarkable progress and sustained an integrated development of not only the region but also of the country.
