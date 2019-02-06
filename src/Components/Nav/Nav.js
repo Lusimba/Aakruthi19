@@ -13,7 +13,7 @@ class Nav extends Component {
                     <NavLink exact to="/" className="hover-bg-dark-gray no-underline hover-white dark-red f3 f2-ns dib mr3 mr4-ns pa2 br3" activeClassName="active bg-mid-gray pa2 br3" title='About'>Home</NavLink>
                     <NavLink exact to="/events" className="hover-bg-dark-gray no-underline hover-white dark-red f3 f2-ns dib mr3 mr4-ns pa2 br3" activeClassName="active bg-mid-gray pa2 br3" title="Events">Events</NavLink>
                     <NavLink exact to="/register" className="hover-bg-dark-gray no-underline hover-white dark-red f3 f2-ns dib mr3 mr4-ns pa2 br3" activeClassName="active bg-mid-gray pa2 br3" title="Registration">Register</NavLink>
-                    <NavLink exact to="/sponsors" className="hover-bg-dark-gray no-underline hover-white dark-red f3 f2-ns dib mr3 mr4-ns pa2 br3" activeClassName="active bg-mid-gray pa2 br3" title="Previous Sponsors">Previous Sponsors</NavLink>
+                    <NavLink exact to="/sponsors" className="hover-bg-dark-gray no-underline hover-white dark-red f3 f2-ns dib mr3 mr4-ns pa2 br3" activeClassName="active bg-mid-gray pa2 br3" title="Previous Sponsors">Our Sponsors</NavLink>
                     <NavLink exact to="/contact" className="hover-bg-dark-gray no-underline hover-white dark-red f3 f2-ns dib mr3 mr4-ns pa2 br3" activeClassName="active bg-mid-gray pa2 br3" title="Contact">Contact Us</NavLink>
                 </div>
             </nav>

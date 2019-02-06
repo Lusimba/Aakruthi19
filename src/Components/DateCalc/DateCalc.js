@@ -6,7 +6,7 @@ class Date extends Component{
     render(){
         return (
             <div>
-                Aakruthi19 <Moment fromNow>2019-02-22T12:59-0500</Moment>
+                Aakruthi19 <Moment fromNow>2019-03-01T12:59-0500</Moment>
             </div>
         );
     }
