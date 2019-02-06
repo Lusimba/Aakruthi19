@@ -58,6 +58,16 @@ class Register extends Component {
                         </article>
                         <article className='dt bg-white black dt--fixed w-100'>
                         <div className='dt-m w-100-m dtc-l w-40-l'>
+                                <img src={Medha} className='pl6' alt = 'laghuchitra'/>
+                            </div>
+                            <div className='dt-m w-100-m dtc-l w-50-l v-mid tc'>
+                                <a rel='noopener noreferrer' target='_blank'  href='https://docs.google.com/forms/d/e/1FAIpQLSdnz_BCrwnPlugU_uxMFtvnuOoP6Ze8OKI-5zSChDfvMHCQew/viewform?usp=pp_url'>
+                                <h2 className='f1 tj br3 link dim ph3 pv2 mb2 dib white bg-black'>Register for Medha</h2></a>
+                                
+                            </div>
+                        </article>
+                        <article className='dt bg-white black dt--fixed w-100'>
+                        <div className='dt-m w-100-m dtc-l w-40-l'>
                                 <img src={chanakya} className='h-50-l pa3-l' alt = 'chanakya'/>
                             </div>
                             <div className='dt-m w-100-m dtc-l w-50-l v-mid tc'>
@@ -86,17 +96,6 @@ class Register extends Component {
                                 
                             </div>
                         </article>
-                        <article className='dt bg-white black dt--fixed w-100'>
-                        <div className='dt-m w-100-m dtc-l w-40-l'>
-                                <img src={Medha} className='pl6' alt = 'laghuchitra'/>
-                            </div>
-                            <div className='dt-m w-100-m dtc-l w-50-l v-mid tc'>
-                                <a rel='noopener noreferrer' target='_blank'  href='https://docs.google.com/forms/d/e/1FAIpQLSdnz_BCrwnPlugU_uxMFtvnuOoP6Ze8OKI-5zSChDfvMHCQew/viewform?usp=pp_url'>
-                                <h2 className='f1 tj br3 link dim ph3 pv2 mb2 dib white bg-black'>Register for Medha</h2></a>
-                                
-                            </div>
-                        </article>
-                        
                     </div>
                 </section>
             </div>
