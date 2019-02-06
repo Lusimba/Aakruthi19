@@ -39,7 +39,7 @@ class Sponsors extends Component {
 
                             <h2 className='tc' >AMD Product Range</h2>
                             <div className='center dt dt--fixed w-75'>
-                                <div className='dtc w-25'>
+                                <div className='dtc w-25 pa2'>
                                     <article class="br2 ba dark-gray b--black-10 mv4 mw5 center">
                                     <p class="f3 f4-ns">AMD Ryzen™ 7 Processors</p>
                                     <img src="https://images10.newegg.com/ProductImage/19-113-430-S01.jpg" height='110' class="db ba dark-gray w-100 br2 br--top" alt="Photo of a kitten looking menacing." />
@@ -54,7 +54,7 @@ class Sponsors extends Component {
                                     </div>
                                     </article>
                                 </div>
-                                <div className='dtc w-25'>
+                                <div className='dtc w-25 pa2'>
                                     <article class="br2 ba dark-gray b--black-10 mv4 mw5 center">
                                         <p class="f3 f4-ns">AMD Ryzen™ 5 Processors</p>
                                         <img src="https://www.primeabgb.com/wp-content/uploads/2017/04/AMD-RYZEN-5-1500X-3.6-GHz-Socket-AM4-Desktop-Processor-with-Wraith-Spire-95W-cooler.jpg" height='110' width ='' class="db ba dark-gray w-100 br2 br--top" alt="Photo of a kitten looking menacing." />
@@ -69,7 +69,7 @@ class Sponsors extends Component {
                                         </div>
                                     </article>
                                 </div>
-                                <div className='dtc w-25'>
+                                <div className='dtc w-25 pa2'>
                                     <article class="br2 ba dark-gray b--black-10 mv4 mw5 center">
                                         <p class="f3 f4-ns">AMD Ryzen™ 3 Processors</p>
                                         <img src="https://www.amd.com/system/files/24301-ryzen-3-pib-left-facing-1260x709_2.png" height='110' class="db ba dark-gray w-100 br2 br--top" alt="Photo of a kitten looking menacing." />
@@ -86,9 +86,9 @@ class Sponsors extends Component {
                             </div>
                             {/* --------------------- */}
                             <div className='center dt dt--fixed w-50'>
-                                <div className='dtc w-25'>
-                                    <article class="br2 ba dark-gray b--black-10 mv4 mw5 center">
-                                    <p class="f3 f4-ns">AMD Ryzen™ Threadripper™ 1920X Processor</p>
+                                <div className='dtc w-25 pa2'>
+                                    <article class="br2 ba dark-gray b--black-10 center">
+                                    <p class="f3 f4-ns">AMD Ryzen™ Threadripper™ <br/>1920X Processor</p>
                                     <img src="https://www.amd.com/system/files/23588-ryzen-threadripper-pib-left-facing-1260x709.png" height='110' class="db ba dark-gray w-100 br2 br--top" alt="Photo of a kitten looking menacing." />
                                     <div class="pa2 ph3-ns pb3-ns">
                                         <div class="dt w-100">
@@ -101,15 +101,15 @@ class Sponsors extends Component {
                                     </div>
                                     </article>
                                 </div>
-                                <div className='dtc w-25'>
-                                    <article class="br2 ba dark-gray b--black-10 mv4 mw5 center">
-                                        <p class="f3 f4-ns">AMD EPYC Server Processor</p>
+                                <div className='dtc w-25 pa2'>
+                                    <article class="br2 ba dark-gray b--black-10 center">
+                                        <p class="f3 f4-ns">AMD EPYC <br/> Server Processor</p>
                                         <img src="https://images.idgesg.net/images/article/2017/11/amd-epyc-chip-7000-series-copy-100741910-large.jpg" height='110' width ='' class="db ba dark-gray w-100 br2 br--top" alt="Photo of a kitten looking menacing." />
                                         <div class="pa2 ph3-ns pb3-ns">
                                             <div class="dt w-100">
                                             </div>
                                             <p class="f4 lh-copy measure mt2 mid-gray">
-                                            <p>2 x AMD 7551, 32 cores per Socket @ 2.0 GHz</p>
+                                            <p>2 x AMD 7551, 32 cores @ 2.0 GHz</p>
                                             <p>Memory: 512 GB DDR4</p>
                                             <p>Network: 2 x 25 Gbps</p>
                                             </p>
