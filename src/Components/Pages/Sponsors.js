@@ -85,8 +85,8 @@ class Sponsors extends Component {
                                 </div>
                             </div>
                             {/* --------------------- */}
-                            <div className='center dt dt--fixed w-50'>
-                                <div className='dtc w-25 pa2'>
+                            <div className='center dt dt--fixed w-80'>
+                                <div className='dtc w-40 pa2'>
                                     <article class="br2 ba dark-gray b--black-10 center">
                                     <p class="f3 f4-ns">AMD Ryzen™ Threadripper™ <br/>1920X Processor</p>
                                     <img src="https://www.amd.com/system/files/23588-ryzen-threadripper-pib-left-facing-1260x709.png" height='110' class="db ba dark-gray w-100 br2 br--top" alt="Photo of a kitten looking menacing." />
@@ -101,7 +101,7 @@ class Sponsors extends Component {
                                     </div>
                                     </article>
                                 </div>
-                                <div className='dtc w-25 pa2'>
+                                <div className='dtc w-40 pa2'>
                                     <article class="br2 ba dark-gray b--black-10 center">
                                         <p class="f3 f4-ns">AMD EPYC <br/> Server Processor</p>
                                         <img src="https://images.idgesg.net/images/article/2017/11/amd-epyc-chip-7000-series-copy-100741910-large.jpg" height='110' width ='' class="db ba dark-gray w-100 br2 br--top" alt="Photo of a kitten looking menacing." />
