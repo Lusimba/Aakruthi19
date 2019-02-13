@@ -8,7 +8,7 @@ import call from '../../Images/call.png'
 class Contact extends Component {
     render(){
         return(
-            <div className='dib w-100 border-box f3fl w-10 black pb7'>
+            <div className='dib georgia w-100 border-box f3fl w-10 black pb7'>
                 <section className ='center w-100-m w-75-l center bg-white o-90 pa2'>
                     <div>
                         <h1 className='black f1 tc'>Contact Us</h1>

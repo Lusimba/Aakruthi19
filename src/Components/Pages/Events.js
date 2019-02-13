@@ -15,7 +15,7 @@ import Medha from '../../Images/medha.png'
 class Events extends Component {
     render(){
         return(
-            <div className='dib w-100 border-box fl w-100'>
+            <div className='dib w-100 georgia border-box fl w-100'>
                 {/* <section className ='dib pa6 mr3 fl w-14'></section> */}
                 <section className ='center w-100-m w-75-l pr2 pl3 pt1 pb2 bg-white black o-90 pa2'>
                     <div className='pb6'>
