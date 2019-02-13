@@ -19,7 +19,7 @@ class Events extends Component {
                 {/* <section className ='dib pa6 mr3 fl w-14'></section> */}
                 <section className ='center w-100-m w-75-l pr2 pl3 pt1 pb2 bg-white black o-90 pa2'>
                     <div className='pb6'>
-                        <h1 className='tc'>Events</h1>
+                        <h1 className='tc georgia f-headline lh-solid'>Events</h1>
                         <article className='dt bg-light-gray black dt--fixed w-100'>
                             <div className='dt-m w-100-m dtc-l w-40-l'>
                                 <img src={prasthuthi} alt = 'paper-presentation'/>

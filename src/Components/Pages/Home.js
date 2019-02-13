@@ -9,7 +9,7 @@ class Home extends Component {
                 <section className ='center w-100-m w-75-l o-90 black bg-white pr3 pl3 pt1 pb2'>
                     <div className='pb6'>
                     <article>
-                            <h2 className='about tc'>Aakruthi</h2>
+                            <h2 className='f-headline lh-solid i georgia tc'>Aakruthi</h2>
                             <p>
                             Forever the forerunner in imparting quality education, the Department of electronics and Communication Engineering has been persistent and consistent in catering the needs of the industry the best. In keeping up this spirit, to foster creativity and innovation a group of students from this department with support and guidance of the faculty, has initiated the Technical Symposium AAKRUTHI in 2000. Thanks to their bold initiative and unparalleled efforts, this event is being organized year since then, up holding their vision and aspirations. </p>
 
@@ -18,7 +18,7 @@ class Home extends Component {
 <p>The event has been eliciting an overwhelming response from students from different parts of both T.S and A.P and also other states. The student organizing committees have been striving to improve the fest in terms of the number of events, better organization and hospitality and wider scope to showcase one’s abilities.</p>
                         </article>
                         <article>
-                            <h2 className='about tc'>Osmania University</h2>
+                            <h2 className='about tc georgia'>Osmania University</h2>
                                 <div className='w-98-l w-98-m pb2 center'>
                                 <img src="http://www.osmania.ac.in/images/slide1.jpg"alt="Osmania University"/>
                                 </div>
@@ -31,7 +31,7 @@ class Home extends Component {
                             <p>One of the prime endeavors of the University has been to bring- in required changes in course contents along with innovations in the delivery of Higher Education. Consequently appropriate design and introduction of new courses, those are so essential for an active engagement with the community around, have always been its hallmark.</p>
                         </article>
                         <article>
-                            <h2 className='about tc'>College of Engineering</h2>
+                            <h2 className='about georgia tc'>College of Engineering</h2>
                                 <div className='w-60-l w-98-m pb2 center'>
                                     <img src="http://www.uceou.edu/OWWAZ/img/slide1.jpg"alt="UCEOU"/>
                                 </div>
@@ -39,7 +39,7 @@ class Home extends Component {
                             <p>The college offers four-year engineering degree courses leading to the award of Bachelor of Engineering (B.E) in Bio-medical Engineering, Civil Engineering, Computer Science and Engineering, Electronics and Communication Engineering, Electrical and Electronics Engineering and Mechanical Engineering. The college also offers courses leading to Master of Computer Applications, Master of Science by Research and also Ph.D, in the various branches of Engineering. Part time courses are offered both at Under Graduate and Post Graduate levels.</p>
                         </article>
                         <article>
-                            <h2 className='about tc'>ECE Department</h2>
+                            <h2 className='about georgia tc'>ECE Department</h2>
                                 <div className='w-40 w-98-m pb2 center'>
                                     <img height='' src="http://www.oueceaa.org/img/parallax-slider/images/1.png"alt="ECE Department"/>
                                 </div>
