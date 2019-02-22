@@ -28,8 +28,8 @@ class Sponsors extends Component {
                 <section className ='center w-100-m w-75-l pr2 pl3 pt1 black pb2 bg-white o-90 pa2'>
                     <div className='pb6'>
                         <h1 className='tc black'>AAKRUTHI 2k19 SPONSORS</h1>
-                        <article className='w-60 center'>
-                            <div className='w-40 center'>
+                        <article className='w-80 center'>
+                            <div className='w-100 center'>
                                 <img src={amd} alt = 'amd'/>
                             </div>
                         </article>
