@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import DownloadLink from "react-download-link";
 import 'tachyons';
 import prasthuthi from '../../Images/paper_present.png'
 import poster from '../../Images/poster.png'
@@ -7,6 +8,7 @@ import krithi from '../../Images/rover.png'
 import trishna from '../../Images/trishna.png'
 import chanakya from '../../Images/chanakya.jpg'
 import laghuchitra from '../../Images/reel.png'
+import rules from '../../Downloads/MOBILE CONTROLLED ROBOT FINAL.docx'
 import Medha from '../../Images/medha.png'
 
 
@@ -113,7 +115,7 @@ K.ROHITH.   - 8096556696
                                 </div>
                                 <a rel='noopener noreferrer' target='_blank'  href='https://docs.google.com/forms/d/e/1FAIpQLSd5PU_teVdH68-srk6aM4MVCL7mW415N1_cjYZtvC-i25JirA/viewform?usp=pp_url'>
                                 <h2 className='f1 br3 link dim ph3 pv2 mb2 dib white bg-black'>Register for Yantra</h2></a>
-                                
+                                <br/><a className='tc' href={rules} download>Rules for participation</a>
                             </div>
                         </article>
                         <article className='dt bg-white black dt--fixed w-100'>

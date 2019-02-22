@@ -5,9 +5,11 @@ import amd from '../../Images/amd.jpg'
 import ace from '../../Images/ace.jpg'
 import amp from '../../Images/amp.png'
 import bribbon from '../../Images/blue logo.png'
+import amdbanner from '../../Images/amdbanner.png'
 import apoorva from '../../Images/apoorva.jpg'
 import princeton from '../../Images/theprinceton.png'
 import capgemini from '../../Images/Cap-Gemin.jpg'
+import amdjpg from '../../Images/amdjpg.jpg'
 import microcare from '../../Images/microcare.jpg'
 import synchro from '../../Images/synchro.jpg'
 import lexicon from '../../Images/lexicon.png'
@@ -26,12 +28,12 @@ class Sponsors extends Component {
                 <section className ='center w-100-m w-75-l pr2 pl3 pt1 black pb2 bg-white o-90 pa2'>
                     <div className='pb6'>
                         <h1 className='tc black'>AAKRUTHI 2k19 SPONSORS</h1>
-                        <article className='w-80 center'>
-                            <div className='w-20 center'>
+                        <article className='w-60 center'>
+                            <div className='w-40 center'>
                                 <img src={amd} alt = 'amd'/>
                             </div>
                         </article>
-                        <article>
+                        {/* <article>
                             <h1 className='tc'>AMD India Private Limited</h1>
                             <p>
                             For more than 45 years Advanced Micro Devices (AMD) has been driving innovation in high-performance computing, graphics and visualization technologies ― the building blocks for gaming, immersive platforms, and the datacenter. Hundreds of millions of consumers, leading Fortune 500 businesses and cutting-edge scientific research facilities around the world rely on AMD technology daily to improve how they live, work and play. AMD employees around the world are focused on building great products that push the boundaries of what is possible. For more information about how AMD is enabling today and inspiring tomorrow, visit the AMD (NASDAQ: AMD) website, blog, and Facebook and Twitter pages.
@@ -85,7 +87,7 @@ class Sponsors extends Component {
                                 </div>
                             </div>
                             {/* --------------------- */}
-                            <div className='center dt dt--fixed w-50-l w-70-m'>
+                            {/* <div className='center dt dt--fixed w-50-l w-70-m'>
                                 <div className='dtc w-33-m w-25-l pa2'>
                                     <article class="br2 ba dark-gray b--black-10 center">
                                     <p class="f3 f4-ns">AMD Ryzen™ Threadripper™</p>
@@ -119,7 +121,33 @@ class Sponsors extends Component {
                                 </div>
                             </div>
 
-                        </article>
+                        </article> */}
+                        <section>
+                            <div className='dtc w-100'>
+                                <img src={amdjpg} alt = 'AMD Ad'/>
+                                <img src={amdbanner} alt = 'AMD Ad2'/>
+                            </div>
+                            <article className>
+                                <h3 className='bg-light-gray pa2 w-100 lh-solid georgia ba'>About AMD</h3>
+                                    <p className='pa2'>
+                                    For 50 years, AMD has driven innovation in high-performance computing, graphics, and visualization technologies ― the building blocks for gaming, immersive platforms, and the datacenter. Hundreds of millions of consumers, leading Fortune 500 businesses, and cutting-edge scientific research facilities around the world rely on AMD technology daily to improve how we live, work, and play. AMD employees around the world are focused on building great products that push the boundaries of what is possible. 
+                                    </p>
+
+                                    <p className='pa2'>The seamless blending of the real and virtual worlds is fundamentally changing the way we use technology. AMD’s mission is to offer high performance computing solutions to customers and to democratize technologies. 
+                                    </p>
+
+                                    <p className='pa2'>As opposed to rapid market expansion, AMD’s strategic approach is to focus on niche areas such as graphics, compute and semi-custom and build products that accelerate next generation computing experiences. AMD continues to deliver innovations that are transforming gaming, machine intelligence, virtual reality, augmented reality, infrastructure and cloud. 
+                                    </p>
+                                    <b>Quick Facts </b>
+                                    <ul>
+                                        <li>Founded in 1969 as a Silicon Valley start-up, AMD will celebrate its 50th anniversary in May 2019.</li>
+                                        <li>Headquartered in Santa Clara, California, the company employs over 10,000 employees worldwide</li>
+                                        <li>AMD Operates out of 42 locations in 23 countries. It has R&D facilities, international sales offices, and joint ventures with assembly/test manufacturing facilities in Malaysia and China.</li>
+                                        <li>AMD Vision – Immersive and instinctive computing will transform our lives</li>
+                                        <li>AMD Mission – Build great products that accelerate next-generation computing experiences.</li>
+                                    </ul>
+                            </article>
+                        </section>
                         <h2 className='tc' >Other 2k19 Sponsors</h2>
                         <article className='dt dt--fixed w-50 center'>
                             <div className='dtc w-30'>
@@ -129,7 +157,7 @@ class Sponsors extends Component {
                                 <img src={amp} className='pa3' alt = 'amp'/>
                             </div>
                         </article>
-                        <h1 className='tc black'>PREVIOUS SPONSORS</h1>
+                        {/* <h1 className='tc black'>PREVIOUS SPONSORS</h1>
                         <article className='dt dt--fixed w-80 center'>
                             <div className='dtc w-50'>
                                 <img src={telanganatourism} alt = 'paper-presentation'/>
@@ -189,7 +217,7 @@ class Sponsors extends Component {
                             <div className='dtc w-20'>
                                 <img src={physitech} className='pa3' alt = 'physitech'/>
                             </div>
-                        </article>
+                        </article> */}
                     </div>
                 </section>
                 {/* <section className ='dib m0 mb0 pa5 fl w-15'></section> */}

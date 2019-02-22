@@ -9,7 +9,7 @@ class Home extends Component {
                 <section className ='center w-100-m w-75-l o-90 black bg-white pr3 pl3 pt1 pb2'>
                     <div className='pb6'>
                     <article>
-                            <h2 className='f-headline lh-solid georgia tc'>Aakruthi 2k19</h2>
+                            <h2 className='f-headline lh-solid georgia tc'>AAKRUTHI 2k19</h2>
                             <p>
                             Forever the forerunner in imparting quality education, the Department of electronics and Communication Engineering has been persistent and consistent in catering the needs of the industry the best. In keeping up this spirit, to foster creativity and innovation a group of students from this department with support and guidance of the faculty, has initiated the Technical Symposium AAKRUTHI in 2000. Thanks to their bold initiative and unparalleled efforts, this event is being organized year since then, up holding their vision and aspirations. </p>
 
