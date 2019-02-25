@@ -10,7 +10,7 @@ import apoorva from '../../Images/apoorva.jpg'
 import princeton from '../../Images/theprinceton.png'
 import capgemini from '../../Images/Cap-Gemin.jpg'
 import amdjpg from '../../Images/amdjpg.jpg'
-import microcare from '../../Images/microcare.jpg'
+import vibrant from '../../Images/vibrant_logo.png'
 import synchro from '../../Images/synchro.jpg'
 import lexicon from '../../Images/lexicon.png'
 import hdfc from '../../Images/HDFC.png'
@@ -123,11 +123,10 @@ class Sponsors extends Component {
 
                         </article> */}
                         <section>
+                            <article className>
                             <div className='dtc w-100'>
-                                <img src={amdjpg} alt = 'AMD Ad'/>
                                 <img src={amdbanner} alt = 'AMD Ad2'/>
                             </div>
-                            <article className>
                                 <h3 className='bg-light-gray pa2 w-100 lh-solid georgia ba'>About AMD</h3>
                                     <p className='pa2'>
                                     For 50 years, AMD has driven innovation in high-performance computing, graphics, and visualization technologies ― the building blocks for gaming, immersive platforms, and the datacenter. Hundreds of millions of consumers, leading Fortune 500 businesses, and cutting-edge scientific research facilities around the world rely on AMD technology daily to improve how we live, work, and play. AMD employees around the world are focused on building great products that push the boundaries of what is possible. 
@@ -147,14 +146,20 @@ class Sponsors extends Component {
                                         <li>AMD Mission – Build great products that accelerate next-generation computing experiences.</li>
                                     </ul>
                             </article>
+                            <div className='dtc w-100'>
+                                <img src={amdjpg} alt = 'AMD Ad'/>
+                            </div>
                         </section>
                         <h2 className='tc' >Other 2k19 Sponsors</h2>
-                        <article className='dt dt--fixed w-50 center'>
+                        <article className='dt dt--fixed w-80 center pa2'>
                             <div className='dtc w-30'>
-                                <img src='https://devhelpmate.osmosys.asia/img/Osmosys_logo_transparent.png' alt = 'paper-presentation'/>
+                                <img src={vibrant} className='pa3' alt = 'Vibrant'/>
                             </div>
-                            <div className='dtc w-20'>
+                            <div className='dtc w-30'>
                                 <img src={amp} className='pa3' alt = 'amp'/>
+                            </div>
+                            <div className='dtc w-30'>
+                                <img src='https://devhelpmate.osmosys.asia/img/Osmosys_logo_transparent.png' alt = 'Osmosys'/>
                             </div>
                         </article>
                         {/* <h1 className='tc black'>PREVIOUS SPONSORS</h1>
